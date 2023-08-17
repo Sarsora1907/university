@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692192702 source:c:\users\bsh.sara\desktop\university\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<bits/stdc++.h>
+
